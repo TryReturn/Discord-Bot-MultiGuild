@@ -1,0 +1,13 @@
+{
+    "prefix": "fs/",
+    "client": {
+        "TOKEN": "BOT_TOKEN",
+        "ID": "BOT_ID",
+        "OWNER_ID": "828991790324514887"
+    },
+    "handlers": {
+        "slash": {
+
+        }
+    }
+}
